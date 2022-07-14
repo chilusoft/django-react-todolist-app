@@ -1,0 +1,5 @@
+*/node_modules/*
+backend/djangovenv/
+*.pyc
+*/__pycache__/*
+*.sqlite3
